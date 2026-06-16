@@ -1,6 +1,6 @@
 # Benjamin Jaboeuf
 
-Legal ops advisor and builder in San Francisco. Former IP litigator (15 years in France), now helping pre-seed to Series A founders get fundraise-ready, and building the AI-native version of that practice.
+Legal ops advisor and builder in San Francisco. Former IP litigator and legal ops in several startups, now helping pre-seed to Series A founders get fundraise-ready, and building the AI-native version of that practice.
 
 ### What I do
 I run BVJ Consulting, a legal ops practice covering cap table management, SAFE structuring, corporate hygiene, data room prep, and fundraising readiness for early-stage startups. I work as an embedded, fractional advisor, and increasingly I turn that advisory work into software.
