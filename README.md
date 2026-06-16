@@ -21,14 +21,16 @@ Free, interactive tools I built for founders and angels:
 Next.js, TypeScript, Vercel, and the Anthropic API. I recently built a multi-agent Data Room Reconstructor at the Cerebral Valley / Google I/O hackathon. I think in terms of one problem, one feature, one stream of revenue.
 
 ### Work experience
-- **BVJ Consulting**, Founder and Legal Ops Advisor (Sep 2023 to present). Legal ops, cap table management, SAFEs, and fundraising readiness for pre-seed to Series A startups.
-- **ReadyRoom** (formerly SafeSeeds), Co-founder (2024 to present). Building an ambient, AI-native data room for early-stage startups.
-- **[Startup name, e.g. Instaply]**, [your title] ([start year] to [end year]). [one line on what you did].
-- **[Law firm name, France]**, IP Litigation [Attorney / Counsel] ([start year] to [end year]). Roughly 15 years litigating intellectual property matters in France.
+- **BVJ Consulting**, Founder (Aug 2023 to present), San Francisco. Fractional COO and legal ops advisor for pre-seed to Series A SaaS and crypto startups, covering fundraising, equity, and scalable operations.
+- **Frontier Constructions Ltd**, Legal and Business Operations Advisor (Sep 2022 to Aug 2023), Cayman Islands. In-house legal, cap table, fundraising, and crypto finance operations.
+- **Instaply, Inc.**, Head of Business Operations (Aug 2014 to Jun 2023), San Francisco. Grew ARR from $0 to $2.5M and helped founders raise $15M+, owning legal, HR, finance, and IP.
+- **Rimini Street, Inc.**, Senior Country Research Specialist (Feb 2010 to Jul 2014), Pleasanton, CA. Built the EMEA tax and regulatory strategy and research function.
+- **Fasken Martineau** (formerly Leclerc & Associés), Senior Associate (Aug 2007 to Aug 2008), Paris.
+- **Kahn & Associés**, Associate (Mar 2003 to Jul 2007), Paris.
 
 ### Education
-- **[Institution]**, [Degree, e.g. Master 2 in IP Law] ([year]).
-- **[Institution]**, [Degree] ([year]).
+- **LL.M, United States Legal Studies** (2009), University of California, Hastings College of the Law, San Francisco.
+- **Master's, Multimedia and Information Technology Law** (2001), Université Paris II Panthéon-Assas, Paris.
 
 ### Reach me
 benjamin@bvjconsulting.com / [bvjconsulting.com](https://www.bvjconsulting.com) / [LinkedIn](https://www.linkedin.com/in/jaboeufb/)
